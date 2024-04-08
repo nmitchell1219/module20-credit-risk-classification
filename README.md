@@ -16,8 +16,8 @@ To approach this challenge, the following stages were undertaken:
 #### Machine Learning Model 1 (Logistic Regression):
 🔹Accuracy: The model achieved high accuracy scores, with 99.28% on the training data and 99.26% on the testing data, indicating its strong overall predictive performance.<br>
 🔹Precision and Recall:<br>
-    🔸For healthy loans (0): Nearly perfect with a precision of 1.00 and a recall of 0.99.<br>
-    🔸For high-risk loans (1): Good, with a precision of 0.84 and a recall of 0.94, demonstrating the model's ability to identify the majority of high-risk loans, albeit with some misclassifications.
+    >🔸For healthy loans (0): Nearly perfect with a precision of 1.00 and a recall of 0.99.<br>
+    >🔸For high-risk loans (1): Good, with a precision of 0.84 and a recall of 0.94, demonstrating the model's ability to identify the majority of high-risk loans, albeit with some misclassifications.
 
 ## Summary
 
